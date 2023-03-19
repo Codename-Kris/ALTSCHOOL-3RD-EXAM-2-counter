@@ -22,3 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Hosted on 
+https://vercel.com/codename-kris/altschool-3-rd-exam-2-counter
